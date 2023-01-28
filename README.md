@@ -1,9 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=078d70&height=120&section=header"/>
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5049cc&size=35&center=true&vCenter=true&width=1000&lines=Olá!!+Meu+nome+é+Bruno+Santos;Tenho+23+anos;Sou+do+Brasil;Sou+estudante+de+Computação;Seja+Bem-Vinde!+:%29)](https://git.io/typing-svg)
-
-
-
 
 
 <div align="center">  
@@ -51,7 +49,7 @@
 
 ##
 
-
+  ![Snake animation](https://github.com/Brun00S/Brun00S/blob/output/github-contribution-grid-snake.svg)
 
 
 
