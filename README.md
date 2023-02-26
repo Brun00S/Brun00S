@@ -6,7 +6,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Brun00S&show_icons=true&count_private=true&hide_border=true&title_color=078d70&icon_color=078d70&text_color=98e8c1&bg_color=0d1117" alt="Bruno Santos github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brun00S&layout=compact&hide_border=true&title_color=000000&text_color=ff91a4&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brun00S&layout=compact&hide_border=true&title_color=5049cc&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
 
@@ -46,11 +46,4 @@
   <a href="https://www.linkedin.com/in/bruno-santos-e-santos-0b80ab213" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-##
-
-  ![Snake animation](https://github.com/Brun00S/Brun00S/blob/output/github-contribution-grid-snake.svg)
-
-
-
 
